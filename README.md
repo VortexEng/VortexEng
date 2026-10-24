@@ -1,10 +1,3 @@
-<!--
-  COMO LINKAR SUAS CONTAS
-  Procure por "SEU_" mais abaixo, na seção Contato, e troque:
-    Discord -> https://discord.com/users/SEU_ID_DISCORD  (ou um link de convite do seu servidor)
-    Twitch  -> https://twitch.tv/SEU_USUARIO_TWITCH
--->
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Vortex&fontSize=70&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Engenharia%20%7C%20Low%20Level%20%7C%20Backend&descSize=20&descAlignY=62&theme=cobalt" />
 </div>
